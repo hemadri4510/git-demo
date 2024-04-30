@@ -1,2 +1,2 @@
-# git-demo
-my first respo
+programmed an basic simple calculator
+
